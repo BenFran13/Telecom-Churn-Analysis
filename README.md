@@ -22,5 +22,4 @@ Este proyecto de Data Science tiene como objetivo identificar las causas raíz d
 Puedes visualizar el notebook completo con los gráficos interactivos y el código haciendo clic en el archivo `.ipynb` de este repositorio.
 
 ---
-**Autor:** Benjamín Fran
-*Facultad de Ingeniería Industrial y de Sistemas (FIIS - UNI)*
+
